@@ -6,6 +6,8 @@ Screenshot: assets\Horiseon Marketing.gif
 
 Changelog:
 
+Ver 1.2: Update of README, addition of .gif of functioning website.
+
 Ver 1.1: Update of assets\css\style.css to comply with updated semantic markers in index.html.
 
 Ver 1.0: Update of semantic markers in index.html
